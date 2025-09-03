@@ -81,7 +81,86 @@ const songs = [
         src: "audio/10.mp3"
     },
 
-
+{
+  id: 11,
+  title: "Maa Boldi Aa",
+  artist: "Karan Aujla",
+  album: "",
+  image: "img/11.jpg",
+  src: "audio/11.mp3"
+},
+{
+  id: 12,
+  title: "Nightmare",
+  artist: "Chandra Brar",
+  album: "",
+  image: "img/12.jpg",
+  src: "audio/12.mp3"
+},
+{
+  id: 13,
+  title: "All Eyez on Me",
+  artist: "2Pac",
+  album: "",
+  image: "img/13.jpg",
+  src: "audio/13.mp3"
+},
+{
+  id: 14,
+  title: "Hope",
+  artist: "XXTentacion",
+  album: "",
+  image: "img/14.jpg",
+  src: "audio/14.mp3"
+},
+{
+  id: 15,
+  title: "Levels",
+  artist: "Sidhu Moose wala",
+  album: "",
+  image: "img/15.jpg",
+  src: "audio/15.mp3"
+},
+{
+  id: 16,
+  title: "Blue Eyes",
+  artist: "Yo Yo Honey Singh",
+  album: "",
+  image: "img/16.jpg",
+  src: "audio/16.mp3"
+},
+{
+  id: 17,
+  title: "Ki Banu Duniya Da",
+  artist: "Gurdas Maan",
+  album: "",
+  image: "img/17.jpg",
+  src: "audio/17.mp3"
+},
+{
+  id: 18,
+  title: "Pani Deya Bul Buleya",
+  artist: "Chamkila",
+  album: "",
+  image: "img/18.jpg",
+  src: "audio/18.mp3"
+},
+{
+  id: 19,
+  title: "Geet De Wargi",
+  artist: "Tarsem Jasser",
+  album: "",
+  image: "img/19.jpg",
+  src: "audio/19.mp3"
+},
+{
+  id: 20,
+  title: "Dabde Ni",
+  artist: "Ammy Virk",
+  album: "",
+  image: "img/20.jpg",
+  src: "audio/20.mp3"
+},
 
 ];
 
