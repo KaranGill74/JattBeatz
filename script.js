@@ -161,6 +161,86 @@ const songs = [
   image: "img/20.jpg",
   src: "audio/20.mp3"
 },
+{
+  id: 21,
+  title: "Unbothered",
+  artist: "Navaan Sandhu",
+  album: "",
+  image: "img/21.jpg",
+  src: "audio/21.mp3"
+},
+{
+  id: 22,
+  title: "Red Battiyan",
+  artist: "R Nait",
+  album: "",
+  image: "img/22.jpg",
+  src: "audio/22.mp3"
+},
+{
+  id: 23,
+  title: "Brown Munde",
+  artist: "AP Dhillon",
+  album: "",
+  image: "img/23.jpg",
+  src: "audio/23.mp3"
+},
+{
+  id: 24,
+  title: "Fuck Em All",
+  artist: "Sidhu Moose Wala",
+  album: "",
+  image: "img/24.jpg",
+  src: "audio/24.mp3"
+},
+{
+  id: 25,
+  title: "Case",
+  artist: "Diljit Dosanjh",
+  album: "",
+  image: "img/25.jpg",
+  src: "audio/25.mp3"
+},
+{
+  id: 26,
+  title: "Scapegoat",
+  artist: "Sidhu Moose Wala",
+  album: "",
+  image: "img/26.jpg",
+  src: "audio/26.mp3"
+},
+{
+  id: 27,
+  title: "Never Fold",
+  artist: "Sidhu Moose Wala",
+  album: "",
+  image: "img/27.jpg",
+  src: "audio/27.mp3"
+},
+{
+  id: 28,
+  title: "Chote Chote Ghar",
+  artist: "Ranjit Bawa",
+  album: "",
+  image: "img/28.jpg",
+  src: "audio/28.mp3"
+},
+{
+  id: 29,
+  title: "Pendu",
+  artist: "Amnider Gill",
+  album: "",
+  image: "img/29.jpg",
+  src: "audio/29.mp3"
+},
+{
+  id: 30,
+  title: "Kaun Kuri",
+  artist: "KS Makhan",
+  album: "",
+  image: "img/30.jpg",
+  src: "audio/30.mp3"
+},
 
 ];
 
