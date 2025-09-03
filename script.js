@@ -481,6 +481,134 @@ const songs = [
   image: "img/60.jpg",
   src: "audio/60.mp3"
 },
+{
+  id: 61,
+  title: "Saahan Nu Suroor",
+  artist: "Feroz Khan",
+  album: "",
+  image: "img/61.jpg",
+  src: "audio/61.mp3"
+},
+{
+  id: 62,
+  title: "Peshi",
+  artist: "Zora Randhawa",
+  album: "",
+  image: "img/62.jpg",
+  src: "audio/62.mp3"
+},
+{
+  id: 63,
+  title: "Diary",
+  artist: "Amnider Gill",
+  album: "",
+  image: "img/63.jpg",
+  src: "audio/63.mp3"
+},
+{
+    id: 64,
+    title: 'Dil Da Dimaag',
+    artist: 'Sharry Maan',
+    src: 'audio/64.mp3',
+    image: 'img/64.jpg',
+    album: ''
+},
+{
+    id: 65,
+    title: 'Sher-E-Panjab',
+    artist: 'Arjan Dhillon',
+    src: 'audio/65.mp3',
+    image: 'img/65.jpg',
+    album: ''
+},
+{
+    id: 66,
+    title: 'Oh Kyu Ni Jaan Ske',
+    artist: 'Ninja',
+    src: 'audio/66.mp3',
+    image: 'img/66.jpg',
+    album: ''
+},
+{
+    id: 67,
+    title: 'Loud Jatt',
+    artist: 'Garrie Dhaliwal',
+    src: 'audio/67.mp3',
+    image: 'img/67.jpg',
+    album: ''
+},
+{
+    id: 68,
+    title: 'Police',
+    artist: 'Cheema Y',
+    src: 'audio/68.mp3',
+    image: 'img/68.jpg',
+    album: ''
+},
+{
+    id: 69,
+    title: 'Vaaj',
+    artist: 'Kanwar Grewal',
+    src: 'audio/69.mp3',
+    image: 'img/69.jpg',
+    album: ''
+},
+{
+    id: 70,
+    title: 'Big Scene',
+    artist: 'Diljit Dosanjh',
+    src: 'audio/70.mp3',
+    image: 'img/70.jpg',
+    album: ''
+},
+{
+    id: 71,
+    title: 'Jordan',
+    artist: 'A Key',
+    src: 'audio/71.mp3',
+    image: 'img/71.jpg',
+    album: ''
+},
+{
+    id: 72,
+    title: 'Bass Baliye',
+    artist: 'Gurj Sidhu',
+    src: 'audio/72.mp3',
+    image: 'img/72.jpg',
+    album: ''
+},
+{
+    id: 73,
+    title: 'Dil Yaaran De',
+    artist: 'Gurj Sidhu',
+    src: 'audio/73.mp3',
+    image: 'img/73.jpg',
+    album: ''
+},
+{
+    id: 74,
+    title: 'Kaali Range',
+    artist: 'R Nait',
+    src: 'audio/74.mp3',
+    image: 'img/74.jpg',
+    album: ''
+},
+{
+    id: 75,
+    title: 'Adha Pind',
+    artist: 'Gurj Sidhu',
+    src: 'audio/75.mp3',
+    image: 'img/75.jpg',
+    album: ''
+},
+{
+    id: 76,
+    title: 'Flop',
+    artist: 'Sidhu Moose Wala',
+    src: 'audio/76.mp3',
+    image: 'img/76.jpg',
+    album: ''
+},
 ];
 
 // Hip hop artists list
