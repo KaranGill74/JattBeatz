@@ -401,6 +401,86 @@ const songs = [
   image: "img/50.jpg",
   src: "audio/50.mp3"
 },
+{
+  id: 51,
+  title: "Meri Zindgi Bana Ja",
+  artist: "Sharry Mann",
+  album: "",
+  image: "img/51.webp",
+  src: "audio/51.mp3"
+},
+{
+  id: 52,
+  title: "Sohni Kuri",
+  artist: "Amnider Gill",
+  album: "",
+  image: "img/52.webp",
+  src: "audio/52.mp3"
+},
+{
+  id: 53,
+  title: "Changa Mada Time",
+  artist: "A-kay",
+  album: "",
+  image: "img/53.jpg",
+  src: "audio/53.mp3"
+},
+{
+  id: 54,
+  title: "Guerrilla War",
+  artist: "Amrit Maan",
+  album: "",
+  image: "img/54.jpg",
+  src: "audio/54.mp3"
+},
+{
+  id: 55,
+  title: "Gabbroo",
+  artist: "Jassi Gill",
+  album: "",
+  image: "img/55.jpg",
+  src: "audio/55.mp3"
+},
+{
+  id: 56,
+  title: "Dil Tutda",
+  artist: "Jassi Gill",
+  album: "",
+  image: "img/56.jpg",
+  src: "audio/56.mp3"
+},
+{
+  id: 57,
+  title: "Lahore",
+  artist: "Ranjit Bawa",
+  album: "",
+  image: "img/57.jpg",
+  src: "audio/57.mp3"
+},
+{
+  id: 58,
+  title: "Guitar Sikhda",
+  artist: "Jassi Gill",
+  album: "",
+  image: "img/58.jpg",
+  src: "audio/58.mp3"
+},
+{
+  id: 59,
+  title: "Yaarian",
+  artist: "Amnider Gill",
+  album: "",
+  image: "img/59.jpg",
+  src: "audio/59.mp3"
+},
+{
+  id: 60,
+  title: "Aroma",
+  artist: "Sidhu Moose Wala",
+  album: "",
+  image: "img/60.jpg",
+  src: "audio/60.mp3"
+},
 ];
 
 // Hip hop artists list
