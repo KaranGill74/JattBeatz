@@ -241,7 +241,86 @@ const songs = [
   image: "img/30.jpg",
   src: "audio/30.mp3"
 },
-
+{
+  id: 31,
+  title: "Good Luck Charm",
+  artist: "KS Makhan",
+  album: "",
+  image: "img/31.jpg",
+  src: "audio/31.mp3"
+},
+{
+  id: 32,
+  title: "Bachke Bachke",
+  artist: "Karan Aujla",
+  album: "",
+  image: "img/32.jpg",
+  src: "audio/32.mp3"
+},
+{
+  id: 33,
+  title: "Love Sick",
+  artist: "Sidhu Moose Wala",
+  album: "",
+  image: "img/33.jpg",
+  src: "audio/33.mp3"
+},
+{
+  id: 34,
+  title: "Jatt Life",
+  artist: "Varinder Brar",
+  album: "",
+  image: "img/34.jpg",
+  src: "audio/34.mp3"
+},
+{
+  id: 35,
+  title: "Foreigns",
+  artist: "AP Dhillion",
+  album: "",
+  image: "img/35.jpg",
+  src: "audio/35.mp3"
+},
+{
+  id: 36,
+  title: "Built Different",
+  artist: "Sidhu Moose Wala",
+  album: "",
+  image: "img/36.jpg",
+  src: "audio/36.mp3"
+},
+{
+  id: 37,
+  title: "Racks And Rounds",
+  artist: "Sidhu Moose Wala",
+  album: "",
+  image: "img/37.jpg",
+  src: "audio/37.mp3"
+},
+{
+  id: 38,
+  title: "Goat",
+  artist: "AP Dhillion",
+  album: "",
+  image: "img/38.jpg",
+  src: "audio/38.mp3"
+},
+{
+  id: 39,
+  title: "Jaguar",
+  artist: "Bohemia",
+  album: "",
+  image: "img/39.webp",
+  src: "audio/39.mp3"
+},
+{
+  id: 40,
+  title: "Car Nachdi",
+  artist: "Gippy Grewal",
+  album: "",
+  image: "img/40.jpg",
+  src: "audio/40.mp3"
+},
 ];
 
 // Hip hop artists list
