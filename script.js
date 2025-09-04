@@ -67,7 +67,7 @@ const songs = [
     {
         id: 9,
         title: "Chal Jindiye",
-        artist: "Amnider Gill",
+        artist: "Amrinder Gill",
         album: "",
         image: "img/9.jpg",
         src: "audio/9.mp3"
@@ -228,7 +228,7 @@ const songs = [
 {
   id: 29,
   title: "Pendu",
-  artist: "Amnider Gill",
+  artist: "Amrinder Gill",
   album: "",
   image: "img/29.jpg",
   src: "audio/29.mp3"
@@ -412,7 +412,7 @@ const songs = [
 {
   id: 52,
   title: "Sohni Kuri",
-  artist: "Amnider Gill",
+  artist: "Amrinder Gill",
   album: "",
   image: "img/52.webp",
   src: "audio/52.mp3"
@@ -468,7 +468,7 @@ const songs = [
 {
   id: 59,
   title: "Yaarian",
-  artist: "Amnider Gill",
+  artist: "Amrinder Gill",
   album: "",
   image: "img/59.jpg",
   src: "audio/59.mp3"
@@ -500,7 +500,7 @@ const songs = [
 {
   id: 63,
   title: "Diary",
-  artist: "Amnider Gill",
+  artist: "Amrinder Gill",
   album: "",
   image: "img/63.jpg",
   src: "audio/63.mp3"
@@ -641,6 +641,14 @@ const songs = [
     image: 'img/80.jpg',
     album: ''
 },
+{
+    id: 81,
+    title: 'Raatan',
+    artist: 'Amrinder Gill',
+    src: 'audio/81.mp3',
+    image: 'img/81.webp',
+    album: ''
+},
 ];
 
 // Hip hop artists list
@@ -671,7 +679,7 @@ const hipHopArtists = [
 // Extract songs artists list
 const Extractsongs = [
     "Jassi Gill",
-    "Amnider Gill",
+    "Amrinder Gill",
     "Sharry Mann",
     "Ranjit Bawa",
     "Feroz Khan",
