@@ -107,10 +107,10 @@ const songs = [
 },
 {
   id: 14,
-  title: "Hope",
-  artist: "XXTentacion",
+  title: "Munda Iphone Warga",
+  artist: "A Key",
   album: "",
-  image: "img/14.jpg",
+  image: "img/14.webp",
   src: "audio/14.mp3"
 },
 {
@@ -607,6 +607,38 @@ const songs = [
     artist: 'Sidhu Moose Wala',
     src: 'audio/76.mp3',
     image: 'img/76.jpg',
+    album: ''
+},
+{
+    id: 77,
+    title: 'Tru Talk',
+    artist: 'Jassi Gill',
+    src: 'audio/77.mp3',
+    image: 'img/77.jpg',
+    album: ''
+},
+{
+    id: 78,
+    title: 'Litt Lyf',
+    artist: 'Babble Rai',
+    src: 'audio/78.mp3',
+    image: 'img/78.jpg',
+    album: ''
+},
+{
+    id: 79,
+    title: 'By God',
+    artist: 'B Jay Randhawa',
+    src: 'audio/79.mp3',
+    image: 'img/79.webp',
+    album: ''
+},
+{
+    id: 80,
+    title: 'Fuel',
+    artist: 'Gippy Grewal',
+    src: 'audio/80.mp3',
+    image: 'img/80.jpg',
     album: ''
 },
 ];
