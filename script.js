@@ -668,8 +668,8 @@ const hipHopArtists = [
     "Amrit Maan"
 ];
 
-// Sad songs artists list
-const sadSongsArtists = [
+// Extract songs artists list
+const Extractsongs = [
     "Jassi Gill",
     "Amnider Gill",
     "Sharry Mann",
@@ -1323,8 +1323,8 @@ function navigateToPage(page) {
     switch (page) {
         case 'home':
             renderSongs();
-            pageTitle.textContent = 'Good morning';
-            pageSubtitle.textContent = "Here's your music for today";
+            pageTitle.textContent = 'PlayList';
+            pageSubtitle.textContent = "Welcome To JattBeatz";
             break;
         case 'browse':
             const hipHopSongs = songs.filter(song => hipHopArtists.includes(song.artist));
@@ -1333,10 +1333,10 @@ function navigateToPage(page) {
             pageSubtitle.textContent = 'Explore hip hop songs';
             break;
         case 'radio':
-            const sadSongs = songs.filter(song => sadSongsArtists.includes(song.artist));
+            const sadSongs = songs.filter(song => Extractsongs.includes(song.artist));
             renderSongs(sadSongs);
-            pageTitle.textContent = 'Sad Songs';
-            pageSubtitle.textContent = 'Explore sad songs';
+            pageTitle.textContent = 'Other Songs';
+            pageSubtitle.textContent = 'Explore Extract songs';
             break;
         case 'favorites':
             showPlaylist('liked');
