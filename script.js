@@ -1333,8 +1333,8 @@ function navigateToPage(page) {
             pageSubtitle.textContent = 'Explore hip hop songs';
             break;
         case 'radio':
-            const Extractsongs = songs.filter(song => Extractsongs.includes(song.artist));
-            renderSongs(Extractsongs);
+            const Extractsong = songs.filter(song => Extractsongs.includes(song.artist));
+            renderSongs(Extractsong);
             pageTitle.textContent = 'Other Songs';
             pageSubtitle.textContent = 'Explore Extract songs';
             break;
