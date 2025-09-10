@@ -99,8 +99,8 @@ const songs = [
 },
 {
   id: 13,
-  title: "All Eyez on Me",
-  artist: "2Pac",
+  title: "Chandigarh Police",
+  artist: "G SkillZ",
   album: "",
   image: "img/13.jpg",
   src: "audio/13.mp3"
