@@ -564,7 +564,7 @@ const songs = [
 {
     id: 71,
     title: 'Jordan',
-    artist: 'A Key',
+    artist: 'A-Key',
     src: 'audio/71.mp3',
     image: 'img/71.jpg',
     album: ''
@@ -647,6 +647,14 @@ const songs = [
     artist: 'Amrinder Gill',
     src: 'audio/81.mp3',
     image: 'img/81.webp',
+    album: ''
+},
+{
+    id: 82,
+    title: 'Hauli Hauli',
+    artist: 'Sidhu Moose Wala',
+    src: 'audio/82.mp3',
+    image: 'img/82.jpg',
     album: ''
 },
 ];
