@@ -1066,14 +1066,16 @@ function setupEventListeners() {
     audioPlayer.addEventListener('loadedmetadata', () => {
         totalTime.textContent = formatTime(audioPlayer.duration);
     });
-    audioPlayer.addEventListener('ended', () => {
-        if (repeatMode) {
-            audioPlayer.currentTime = 0;
-            audioPlayer.play();
-        } else {
-            playNext();
-        }
-    });
+   audioPlayer.addEventListener("ended", () => {
+    if (repeatMode) {
+        // Start again from the beginning
+        audioPlayer.play();
+    } else {
+        // Move to the next track
+        playNext();
+    }
+});
+
     audioPlayer.addEventListener('play', () => {
         isPlaying = true;
         playIcon.className = 'bi bi-pause-circle-fill';
