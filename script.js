@@ -657,6 +657,70 @@ const songs = [
     image: 'img/82.jpg',
     album: ''
 },
+{
+    id: 83,
+    title: 'Kaa Bole Banere Te',
+    artist: 'A-Key',
+    src: 'audio/83.mp3',
+    image: 'img/83.jpg',
+    album: ''
+},
+{
+    id: 84,
+    title: 'Sahan Ton Nere ',
+    artist: 'Amrinder Gill',
+    src: 'audio/84.mp3',
+    image: 'img/84.jpg',
+    album: ''
+},
+{
+    id: 85,
+    title: 'Mitti Di Khushboo ',
+    artist: ' Ayushmann Khurrana',
+    src: 'audio/85.mp3',
+    image: 'img/85.jpg',
+    album: ''
+},
+{
+    id: 86,
+    title: 'Yaari ',
+    artist: 'Maninder Butter',
+    src: 'audio/86.mp3',
+    image: 'img/86.jpg',
+    album: ''
+},
+{
+    id: 87,
+    title: 'Ehna Hanjuyan ',
+    artist: 'Kaler Kanth',
+    src: 'audio/87.mp3',
+    image: 'img/87.jpg',
+    album: ''
+},
+{
+    id: 88,
+    title: 'Insomnia',
+    artist: 'Sippy Gill',
+    src: 'audio/88.mp3',
+    image: 'img/88.webp',
+    album: ''
+},
+{
+    id: 89,
+    title: 'Forget About It ',
+    artist: 'Sidhu Moose Wala',
+    src: 'audio/89.mp3',
+    image: 'img/89.webp',
+    album: ''
+},
+{
+    id: 90,
+    title: 'Sidhu Anthem ',
+    artist: 'Sidhu Moose Wala',
+    src: 'audio/90.mp3',
+    image: 'img/90.jpg',
+    album: ''
+},
 ];
 
 // Hip hop artists list
