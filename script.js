@@ -721,6 +721,14 @@ const songs = [
     image: 'img/90.jpg',
     album: ''
 },
+{
+    id: 91,
+    title: 'Rang Sanwla',
+    artist: 'Aarsh Benipal',
+    src: 'audio/91.mp3',
+    image: 'img/91.jpg',
+    album: ''
+},
 ];
 
 // Hip hop artists list
